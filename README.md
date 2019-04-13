@@ -1,7 +1,7 @@
 ------------------------------------------------
 ###### Reservoir Computing . Chaos . Noise . Fractals
 -----------------------------------------------
-Study and Implementation of Deterministic and non deterministic Noise. Fractals. And Reservoir computing.
+Study and Implementation of Deterministic and non deterministic chaos . Noise. Fractals. And Reservoir computing.
 
 
 ------------------------------------------------
