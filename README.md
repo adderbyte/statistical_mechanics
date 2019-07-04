@@ -12,5 +12,5 @@ Study and Implementation of Deterministic and non deterministic chaos models. No
   3. Identifying or distinguishing noise from chaos.
   4. Could models  (ESN or LSTM for example) still perform well for nondeterministic and chaotic system ?
   5. Understanding Fractals. And how useful they are to Machine learning
-  6. Other
+  6. Other related questions
   
