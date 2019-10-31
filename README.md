@@ -1,7 +1,9 @@
 ------------------------------------------------
 ###### Reservoir Computing . Chaos . Noise . Fractals
 -----------------------------------------------
-Study and Implementation of Deterministic and non deterministic chaos models. Noise. Fractals. And Reservoir computing.
+Study and Implementation of Deterministic and non deterministic chaos models. Noise. Fractals. And Reservoir computing. 
+
+Lecture reference: [statistical physics](https://www.coursera.org/learn/statistical-mechanics)
 
 
 ------------------------------------------------
