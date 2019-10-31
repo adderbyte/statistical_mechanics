@@ -5,6 +5,7 @@ Study and Implementation of Deterministic and non deterministic chaos models. No
 
 Lecture reference: [statistical physics](https://www.coursera.org/learn/statistical-mechanics)
 
+Non deterministic chaos reference paper: [Non-deterministic Chaos](https://arxiv.org/pdf/chao-dyn/9408001.pdf)
 
 ------------------------------------------------
  ###### Questions
