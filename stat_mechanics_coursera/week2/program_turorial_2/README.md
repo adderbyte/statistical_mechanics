@@ -1,1 +1,1 @@
-Python scripts for the lectures
+Python scripts for the tutorial session
