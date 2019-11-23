@@ -1,5 +1,5 @@
 ----------------------------------
 
-      Statistical mechanics ( coursera )
+      Statistical mechanics ( coursera course )
 
 --------------------------------
