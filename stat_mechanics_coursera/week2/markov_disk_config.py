@@ -36,7 +36,7 @@ def markov_disks_boxV(N, sigma,L):
 
 L = [[0.25, 0.25], [0.75, 0.25], [0.25, 0.75], [0.75, 0.75]]
 
-n_steps = 10000
+n_steps = 1000000
 sigma = 0.15
 del_xy = 0.05
 
